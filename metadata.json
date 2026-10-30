@@ -1,0 +1,6 @@
+{
+  "name": "CampusLeave - Student Leave Management System",
+  "description": "Comprehensive full-stack Student Leave Management System for students, HODs, and wardens with multi-tier approval workflows, real-time tracking, and role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
